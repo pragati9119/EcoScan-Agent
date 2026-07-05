@@ -154,10 +154,10 @@ Try sending these queries in the Playground UI:
 ## 🖼️ Assets
 
 ### Project Banner
-![Cover Banner](file:///c:/Users/Pragati%20Singh/OneDrive/Documents/AIAGENT/adk.workshop/ecoscan-agent/assets/cover_page_banner.png)
+![Cover Banner](assets/cover_page_banner.png)
 
 ### Multi-Agent Workflow Diagram
-![Architecture Diagram](file:///c:/Users/Pragati%20Singh/OneDrive/Documents/AIAGENT/adk.workshop/ecoscan-agent/assets/architecture_diagram.png)
+![Architecture Diagram](assets/architecture_diagram.png)
 
 ---
 
