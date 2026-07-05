@@ -153,5 +153,15 @@ Try sending these queries in the Playground UI:
 
 ## 🖼️ Assets
 
-- [Architecture Diagram](file:///c:/Users/Pragati%20Singh/OneDrive/Documents/AIAGENT/adk.workshop/ecoscan-agent/assets/architecture_diagram.png)
-- [Cover Banner](file:///c:/Users/Pragati%20Singh/OneDrive/Documents/AIAGENT/adk.workshop/ecoscan-agent/assets/cover_page_banner.png)
+### Project Banner
+![Cover Banner](file:///c:/Users/Pragati%20Singh/OneDrive/Documents/AIAGENT/adk.workshop/ecoscan-agent/assets/cover_page_banner.png)
+
+### Multi-Agent Workflow Diagram
+![Architecture Diagram](file:///c:/Users/Pragati%20Singh/OneDrive/Documents/AIAGENT/adk.workshop/ecoscan-agent/assets/architecture_diagram.png)
+
+---
+
+## 🎙️ Demo Script
+
+A pre-timed, 3-minute presentation script has been generated to guide you through presenting the application. You can find the script here: [DEMO_SCRIPT.txt](file:///c:/Users/Pragati%20Singh/OneDrive/Documents/AIAGENT/adk.workshop/ecoscan-agent/DEMO_SCRIPT.txt)
+
